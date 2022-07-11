@@ -4,7 +4,7 @@
 
 https://elegant-smakager-256f71.netlify.app/
 ## PROJECT PREVIEW
-![Design preview for the project](https://github.com/eStoreLabs/220616-LO-355-Kerastase-Blond-Absolu-Kapiel-UV-Friser/blob/main/kapiel-uv-screenshot.png)
+![Design preview for the project](https://github.com/eStoreLabs/220616-LO-355-Kerastase-Blond-Absolu-Odzywka-Cicaflash-Friser/blob/main/screenshot.png)
 
 ## CONTACT PERSON
 Dominika Wójcik
